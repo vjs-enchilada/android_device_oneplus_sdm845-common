@@ -65,6 +65,10 @@ PRODUCT_PACKAGES += \
     init.qcom.rc \
     init.recovery.qcom.rc
 
+# Camera
+PRODUCT_PACKAGES += \
+    CameraPackage
+
 # Device
 PRODUCT_PACKAGES += \
     DeviceParts
