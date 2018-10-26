@@ -70,8 +70,8 @@ PRODUCT_PACKAGES += \
     CameraPackage
 
 # Device
-PRODUCT_PACKAGES += \
-    DeviceParts
+#PRODUCT_PACKAGES += \
+ #   DeviceParts
 
 # Display
 PRODUCT_PACKAGES += \
